@@ -4,7 +4,7 @@ Hello, Alana Here :bowtie:
   * :mortar_board: Bachelor of Computer Science (Bacharel em Ciência da Computação)
   * :pencil2: Post Graduating in Data Science (Fazendo especialização em Ciência de Dados)
   * 
-## NOWDAYS (Atualmente)
+## NOWADAYS (Atualmente)
   * :woman: I'm a Full Stack Web Developer. 
   * :computer: Working with Web Development Front using VUE, JavaScript/TypeScript, HTML and CSS (Trabalhando com o Desenvolvimento WEB front usanvo Vue, JavaScript/TypeScript, HTML e CSS)
   * <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" style="max-width: 100%;"></a> <a href="https://www.w3schools.com/css/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" style="max-width: 100%;"> </a>
