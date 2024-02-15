@@ -2,7 +2,7 @@ Hello, Alana Here :bowtie:
 
 ## EDUCATION (Formações Acadêmicas)
   * :mortar_board: Bachelor of Computer Science (Bacharel em Ciência da Computação)
-  * :pencil2: Post Graduating in Data Science (Fazendo especialização em Ciência de Dados)
+  * :pencil2: Post Graduated in Data Science (Fazendo especialização em Ciência de Dados)
   * 
 ## NOWADAYS (Atualmente)
   * :woman: I'm a Full Stack Web Developer. 
