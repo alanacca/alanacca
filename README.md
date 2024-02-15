@@ -3,7 +3,6 @@ Hello, Alana Here :bowtie:
 ## EDUCATION (Formações Acadêmicas)
   * :mortar_board: Bachelor of Computer Science (Bacharel em Ciência da Computação)
   * :pencil2: Post Graduated in Data Science (Fazendo especialização em Ciência de Dados)
-  * 
 ## NOWADAYS (Atualmente)
   * :woman: I'm a Full Stack Web Developer. 
   * :computer: Working with Web Development Front using VUE, JavaScript/TypeScript, HTML and CSS (Trabalhando com o Desenvolvimento WEB front usanvo Vue, JavaScript/TypeScript, HTML e CSS)
